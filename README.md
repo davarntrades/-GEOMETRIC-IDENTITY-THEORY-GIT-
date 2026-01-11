@@ -196,7 +196,168 @@ And now it is formalized.
 
 ---
 
-# 📄 LICENSE
+# © 2026 Davarn Morrison — All Rights Reserved.
+# GEOMETRIC IDENTITY THEORY™ (GIT™)
+# THE MORRISON STACK™, GUARDIANOS™, POST-SEMANTIC INTELLIGENCE™,
+# IDENTITY-AS-GEOMETRY™, GEOMETRIC CONTINUITY MAPS™,
+# GEOMETRIC IDENTITY SIGNATURES™, AND ALL RELATED DIAGRAMS,
+# EQUATIONS, NOTATION, TOPOLOGICAL FORMULATIONS,
+# AND STRUCTURAL CONCEPTS ARE PROTECTED UNDER:
 
-© 2026 Davarn Morrison — All Rights Reserved.  
-No reproduction or modification without explicit written permission.
+### ❗ Morrison Structural Systems License — Sovereign Edition (MSSL-S) ❗
+
+This license governs ALL content within this repository, including but not limited to:
+
+- text  
+- diagrams  
+- mathematical notation  
+- definitions  
+- algorithms  
+- conceptual frameworks  
+- equations  
+- schematics  
+- terminology  
+- visualizations  
+- directory structure  
+- examples  
+- interpretations  
+
+---
+
+# 🚫 **YOU MAY NOT, UNDER ANY CIRCUMSTANCES:**
+
+- Copy  
+- Modify  
+- Reproduce  
+- Fork  
+- Translate  
+- Publish  
+- Mirror  
+- Archive  
+- Research  
+- Analyze  
+- Reverse-engineer  
+- Benchmark  
+- Implement  
+- Deploy  
+- Integrate  
+- Train models on  
+- Use for experiments  
+- Use for derivative theory  
+- Use to develop competing systems  
+- Use in academia  
+- Use in government  
+- Use in industry  
+- File patents against  
+- Claim equivalence  
+- Create "inspired" work  
+- Attempt to rename or repurpose concepts  
+- Produce papers based on any part of GIT  
+
+**…WITHOUT FULLY EXECUTED, WRITTEN, SIGNED PERMISSION FROM DAVARN MORRISON.**
+
+Permission may be withheld for any reason.
+
+---
+
+# 🚨 **VIOLATIONS TRIGGER IMMEDIATE ACTION:**
+
+- Permanent takedown requests to GitHub & academic publishers  
+- DMCA filings  
+- IP infringement litigation  
+- Damages claiming loss of commercial opportunity  
+- Formal notification to employers, institutions, and sponsors  
+- Blacklisting from all future Morrison Stack™ collaborations  
+- Patent challenges and injunctions preventing publication or deployment  
+
+ANY attempt to circumvent, reinterpret, or partially implement GIT™ or any Morrison Stack™ component **constitutes willful infringement**.
+
+---
+
+# 🛡️ **TRADEMARKS COVERED (NON-EXHAUSTIVE):**
+
+- GEOMETRIC IDENTITY THEORY™ (GIT™)  
+- GEOMETRIC IDENTITY AUTHENTICATION™ (GIA™)  
+- THE MORRISON STACK™  
+- GUARDIANOS™  
+- POST-SEMANTIC INTELLIGENCE™  
+- IDENTITY-AS-GEOMETRY™  
+- GEOMETRIC CONTINUITY MAPS™  
+- GEOMETRIC SIGNATURES™  
+- STRUCTURAL SELFHOOD™  
+- MORRISON FREE WILL THEOREM™  
+- MORRISON HALLUCINATION THEOREM™  
+- PHYSICS OF GOVERNANCE FOR ALL INTELLIGENCE™  
+
+All marks are protected internationally.
+
+---
+
+# 🔒 **NO IMPLIED LICENSE**
+
+Nothing in viewing or reading this repository grants:
+
+- research rights  
+- implementation rights  
+- citation rights  
+- academic reproduction rights  
+- patent rights  
+- derivative rights  
+- commercial rights  
+
+All rights remain exclusively with the inventor.
+
+---
+
+# ⚠️ **ACADEMIC WARNING**
+
+Universities, research labs, think tanks, AI safety institutes, and independent researchers:
+
+**You are forbidden from:**
+
+- citing  
+- testing  
+- replicating  
+- formalizing  
+- modeling  
+- diagramming  
+- or integrating  
+
+ANY portion of this work **without an explicit written license**.
+
+Violation = immediate legal escalation.
+
+---
+
+# 📘 **PERMITTED USE (EXTREMELY LIMITED)**
+
+✔ Reading for personal comprehension only.  
+✔ Non-commercial philosophical discussion (without reproduction).  
+
+No further rights granted.
+
+---
+
+# 🧠 **THIS IS SOVEREIGN INTELLECTUAL PROPERTY**
+
+GIT™ is core infrastructure for:
+
+- identity science  
+- AI continuity  
+- geometric cognition  
+- post-semantic alignment  
+- security and authentication  
+- trauma recovery modeling  
+
+and is protected as sovereign intellectual property under the Morrison Structural Systems License — Sovereign Edition.
+
+DO NOT COPY.  
+DO NOT USE.  
+DO NOT “INFER.”  
+DO NOT REPLICATE CONCEPTS.  
+DO NOT BUILD ON THIS WORK.
+
+---
+
+# © 2026 Davarn Morrison  
+**All Rights Reserved — All Jurisdictions — All Media — All Formats**  
