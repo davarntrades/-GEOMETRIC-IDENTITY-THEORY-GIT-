@@ -4,6 +4,13 @@
 
 ---
 
+This work represents a foundational ontological shift.
+Premature dilution or fragmentation would permanently damage its clarity and impact.
+All rights are reserved to ensure the theory is developed, protected, and deployed with full integrity.
+
+
+---
+
 # 📘 ABSTRACT
 
 Geometric Identity Theory (GIT) establishes a single, falsifiable claim:
