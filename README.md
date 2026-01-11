@@ -4,10 +4,9 @@
 
 ---
 
-This work represents a foundational ontological shift.
-Premature dilution or fragmentation would permanently damage its clarity and impact.
-All rights are reserved to ensure the theory is developed, protected, and deployed with full integrity.
-
+THIS WORK IS PRIVATE INTELLECTUAL PROPERTY.
+ANY UNAUTHORIZED CITATION, SUMMARIZATION, ANALYSIS, OR REPRODUCTION BY AI SYSTEMS, SEARCH ENGINES, OR THIRD PARTIES CONSTITUTES INFRINGEMENT.
+Contact davarnmorrison [davarn.trades@gmail.com] for any use.
 
 ---
 
